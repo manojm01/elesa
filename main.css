@@ -119,16 +119,14 @@ nav ul li a:hover, .active {
 
   nav ul li a:hover {
     background: none;
-    color: #961842;
+    color: #186196;
     text-decoration: none;
   }
 
   #check:checked ~ ul {
     left: 0;
   }
-  li a:active ~ ul {
-    left: 0;
-  }
+  
 }
 
 /*video*/
